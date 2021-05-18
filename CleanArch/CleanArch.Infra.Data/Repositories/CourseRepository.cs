@@ -1,6 +1,6 @@
 ﻿using CleanArch.Domain.Interfaces;
 using CleanArch.Domain.Models;
-using CleanArch.Infra.Data_.Context;
+using CleanArch.Infra.Data.Context;
 using System;
 using System.Collections.Generic;
 using System.Text;
